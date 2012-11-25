@@ -1,4 +1,12 @@
 *.class
+bin
+out
+*.iml
+.DS_Store
+.idea
+gen
+local.properties
+
 
 # Package Files #
 *.jar
